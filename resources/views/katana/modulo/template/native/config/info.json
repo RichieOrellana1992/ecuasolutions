@@ -1,0 +1,21 @@
+{
+	"name"		:"PHP/laravel Native CRUD ",
+	"type"		:"native",
+	"note"		:"Agregar, editar, ver en la nueva página, clasificación y paginación nativa de php ",
+	"advance"	:"true",
+	"lang"		:"true",
+	"setting"	:{
+					
+					"sorting"		: "true",
+					"method"		: "false"
+				},
+	"access"	: {
+						"is_global"	: "Global" ,
+						"is_view"	: "Ver",
+						"is_detail"	: "Detalle",
+						"is_add"	: "Crear",
+						"is_edit"	: "Editar",
+						"is_remove"	: "Eliminar",
+						"is_excel"	: "Excel"
+				  }				
+}
